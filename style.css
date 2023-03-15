@@ -445,7 +445,6 @@ body {
 }
 
 .layer3 {
-    background-image: url(resources/mokou.jpg);
     background-size: cover;
     object-fit: cover;
     background-attachment: fixed;
@@ -475,13 +474,19 @@ body {
     text-shadow: 0 0 1em black, 0 0 2em black;
     font-family: "hakugyokurou";
     letter-spacing: 0.1em;
-    margin: 11em 0;
+    margin: 15em 0;
 }
 
 .layer3Quote {
-    font-size: 3em;
+    font-size: 2em;
     text-align: center;
     font-style: italic;
+}
+
+span {
+    width: 1000px;
+    flex-direction: column;
+    display: flex;
 }
 .layer3QuoteFrom {
     text-align: center;
