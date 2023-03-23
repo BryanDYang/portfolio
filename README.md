@@ -1,5 +1,7 @@
 # Welcome!
 
+You can view the website here: https://bryandyang.github.io/portfolio/
+
 This repo is for my website displaying collection of my past and current projects.
 
 Let's just say... there were a LOT of tutorials involved.
